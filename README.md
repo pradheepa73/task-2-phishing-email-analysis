@@ -42,6 +42,8 @@ To clearly identify the threat, I compared a legitimate email against the phishi
 | **Call to Action** | "Log into your account" | "Click here to verify" |
 | **Header Authentication** | SPF/DKIM/DMARC: **Pass** | SPF/DKIM/DMARC: **Fail** |
 
+<img width="1920" height="1140" alt="comparison png" src="https://github.com/user-attachments/assets/fcbbb81c-6260-4fbb-a5ed-47c6311ca75c" />
+
 ---
 
 ## 📊 Indicators of Compromise (IOCs)
