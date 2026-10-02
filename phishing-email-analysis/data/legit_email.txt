@@ -1,0 +1,15 @@
+From: "PayPal Security" <security@paypal-alerts.com>
+To: victim@example.com
+Subject: URGENT: Your account has been limited!
+Date: Wed, 1 Oct 2026 14:32:00 -0400
+
+Dear Customer,
+
+We noticed suspicious activity on your account. Your account has been temporarily limited for your protection.
+
+You must verify your information within 24 hours or your account will be permanently suspended.
+
+Click here to verify: http://paypal-verify-login.xyz
+
+Thank you,
+PayPal Security Team
